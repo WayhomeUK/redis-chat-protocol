@@ -21,7 +21,7 @@ To create a message:
 
 To read message history
 
-1. `LPUSH` `general-history` 0 <your prefered history>
+1. `LPUSH` `general-history` 0 \<your prefered history\>
 2. de-serialise as above
 
 To read message live as they come in:
